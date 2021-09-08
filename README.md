@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leyla
 - 👀 I’m interested in Python and software testing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and software testing automation using Python
 - 📫 How to reach me leylyam@gmail.com
 
 <!---
